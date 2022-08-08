@@ -1,7 +1,7 @@
 <img src='./public/cityblur.jpg'>
 Hi there 👋,
 
-I love things that are clean, simple, and organized - qualities I try to bring over to the code that I write.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting.
+I love things that are clean, simple, and organized.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting.
 
 Right now that goal is getting my first job as a software engineer!  
 
