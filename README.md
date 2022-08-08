@@ -14,6 +14,14 @@ Before that, my goal was learning Mandarin Chinese.  Entire new worlds and ways 
 
 Let's go! ✌️
 
+## Currently Working on...
+
+Getting a job and everything that comes with that! 
+
+Including: 
+
+Tweaking previous personal projects, creating new personal projects, learning new technologies (currently AWS and Microsoft Power Automate), improving my coding skills, applying to companies, prepping for interviews, taking interview challenges, networking, feeling charged, and feeling beat down.... 
+
 ## On the web
 
 My portfolio: [HERE](https://jathos.github.io/)
@@ -24,9 +32,8 @@ Linkedin: [HERE](https://www.linkedin.com/in/joshbellon/)
 ## Github Stats
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jathos&theme=calm&show_icons=true&count_private=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jathos&theme=calm&show_icons=true&count_private=true">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jathos)
 <!--
 **jathos/jathos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
