@@ -15,14 +15,14 @@ Before that, my goal was learning Mandarin Chinese.  Entire new worlds and ways 
 Let's go! ✌️
 
 ## On the web
----
+
 My portfolio: [HERE](https://jathos.github.io/)
 
 Linkedin: [HERE](https://www.linkedin.com/in/joshbellon/)
 
 
 ## Github Stats
----
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jathos&theme=calm&show_icons=true&count_private=true)
 
