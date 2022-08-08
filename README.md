@@ -1,4 +1,4 @@
-<img src='./public/cityblur.jpg'>
+<img src='./public/thincityblur.jpg'>
 Hi there 👋,
 
 I love things that are clean, simple, and organized.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting.
