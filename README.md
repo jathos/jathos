@@ -1,5 +1,15 @@
-### Hi there 👋
+<img src='./public/cityblur.jpg'>
+Hi there 👋,
 
+I love things that are clean, simple, and organized - qualities I try to bring over to the code that I write.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting.
+
+Right now that goal is getting my first job as a software engineer!  
+
+My previous challenge was learning real estate and becoming a successful real estate agent.  That was fun.  I've learned a lot about buying, selling, and owning real estate.  I've learned how to interact with a wide variety of personalities.  I plan to use those skills long into my future. But I'm not a salesman.  And you can only go so far in real estate without committing yourself to that persona.  I'm ready for a challenge that's a little more "me".  
+
+Before that, my goal was learning Mandarin Chinese.  Entire new worlds and ways of thinking open up to you when you learn to really communicate with someone that's lived in an entirely different culture than your own.  I really enjoyed that journey.  I'm hoping that the world of software engineering will be a similar adventure.
+
+Let's go! ✌️
 <!--
 **jathos/jathos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
