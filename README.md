@@ -5,7 +5,7 @@ I love things that are clean, simple, and organized.  I'm also very progress-foc
 
 Right now that goal is getting my first job as a software engineer!  
 
-My previous challenge was learning real estate and becoming a successful real estate agent.  That was fun.  I've learned a lot about buying, selling, and owning real estate.  I've learned how to interact with a wide variety of personalities.  I plan to use those skills long into my future. But I'm not a salesman.  And you can only go so far in real estate without committing yourself to that persona.  I'm ready for a challenge that's a little more "me".  
+My previous challenge was learning real estate and becoming a successful real estate agent.  That was fun.  I've learned a lot about buying, selling, and owning real estate.  I've learned how to harmoniously interact with a wide variety of personalities in a wide variety of situations.  I plan to use those skills long into my future. But I'm not a salesman.  And you can only go so far in real estate without committing yourself to that persona.  I'm ready for a challenge that's a little more "me".  
 
 Before that, my goal was learning Mandarin Chinese.  Entire new worlds and ways of thinking open up to you when you learn to really communicate with someone that's lived in an entirely different culture than your own.  I really enjoyed that journey.  I'm hoping that the world of software engineering will be a similar adventure.
 
