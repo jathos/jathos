@@ -20,7 +20,7 @@ Getting a job and everything that comes with that!
 
 Including: 
 
-Tweaking previous personal projects, creating new personal projects, learning new technologies (currently AWS and Microsoft Power Automate), improving my coding skills, applying to companies, prepping for interviews, taking interview challenges, networking, feeling charged, and feeling beat down.... 
+Tweaking previous personal projects, creating new personal projects, learning new technologies (currently AWS, Shopify Development, and Microsoft Power Automate), improving my coding skills, daily Leetcodes, applying to companies, prepping for interviews, taking interview challenges, networking, feeling charged, and feeling beat down.... 
 
 ## On the web
 
