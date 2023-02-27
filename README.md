@@ -4,7 +4,7 @@
 ---
 
 
-I love things that are clean, simple, and organized, and I have a natural talent for breaking down complex tasks and assignments.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting. 
+I love things that are clean, simple, and organized, and I have a natural talent for breaking down complex tasks and concepts.  I'm also very progress-focused, always heading towards a goal that is hopefully new and challenging and interesting. 
 
 Right now that goal is scaling the mountain of software engineering (while raising a family - eek)!
 
